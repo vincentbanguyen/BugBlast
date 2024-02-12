@@ -1,3 +1,6 @@
+
+![BugBlastVideo](https://github.com/vincentbanguyen/BugBlast/assets/72878425/dee418ba-1df4-4d38-8574-04f75a3c61fd)
+
 The playground app I created for WWDC 2022 is called Bug Blast. I created this game to explore the technologies of virtual reality and its possibilities on mobile devices. Bug Blast is a virtual reality space shooter game where anyone with an iPad can experience zooming through space and saving Planet Apple from terrifying space bugs.
 
 The app features an intro screen to prompt the user that Planet Apple is under attack by space bugs who are creeping toward the planet, which leads into a high stakes virtual reality game of maneuvering through space to shoot the space bugs with repair bullets, and also features an immersive experience with audio.
